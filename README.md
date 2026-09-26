@@ -6,6 +6,9 @@ The main purpose of this project is to help our team practice **Git, GitHub, bra
 
 ---
 
+<img width="1516" height="737" alt="image" src="https://github.com/user-attachments/assets/d6638251-b213-433d-be82-8640bfde0ca1" />
+
+
 ## 🎯 Project Goal
 
 Build a simple expense tracker where a user can:
